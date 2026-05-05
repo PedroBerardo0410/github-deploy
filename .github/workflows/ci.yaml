@@ -23,6 +23,6 @@ jobs:
           context: .
           push: true
           tags: |
-            birazn/applinda:v2.2
-            birazn/applinda:latest
+            pedroberardo/deploy-github:v2.2
+            pedroberardo/deploy-github:latest
             
